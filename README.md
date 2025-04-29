@@ -22,5 +22,6 @@ ASP.NET Core Web API project using SQL Server for data storage.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/YourProjectName.git
+git clone https://github.com/shamsulhaq08
+/WebAPI.git
 cd YourProjectName
